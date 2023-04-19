@@ -5,8 +5,8 @@ public class Main {
         int amount = 13676;
         int percent = 20;
         int bonus = amount / percent;
-        System.out.println(""+ bonus +" miles");
-
-        }
+        System.out.println("" + bonus + " miles");
 
     }
+
+}
